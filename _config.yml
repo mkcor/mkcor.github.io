@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I explore data and I build software. I am active in the community as a
   speaker, teacher, and event organizer. I live and work in Montréal, QC.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mariannecorvellec.org" # the base hostname & protocol for your site
+url: "http://mkcor.github.io" # the base hostname & protocol for your site
 github_username: mkcor
 
 # Build settings
