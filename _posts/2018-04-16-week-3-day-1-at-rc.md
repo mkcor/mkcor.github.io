@@ -31,10 +31,11 @@ was great to brainstorm, rubber duck, and get frustrated together! Initially,
 we went for [CircleCI](https://circleci.com/). We switched to
 [Travis CI](https://travis-ci.org/), because I could find more easily
 [how to](https://conda.io/docs/user-guide/tasks/use-conda-with-travis-ci.html)
-use it with conda. After one build that errored and another one that failed (as expected), I got
-one to [pass](https://travis-ci.org/mkcor/case_studies_Py/builds) and called it
-a day. I will submit a pull request once I clean up the `environment.yml` file:
-As I'm glad to read in this
+use it with conda. After one build that errored and another one that failed (as
+expected), I got one to
+[pass](https://travis-ci.org/mkcor/case_studies_Py/builds/367392774) and called
+it a day. I will submit a pull request once I clean up the `environment.yml`
+file: As I'm glad to read in this
 [comment](https://github.com/conda/conda/issues/6073#issuecomment-357028031),
 this file should only list user-provided dependencies.
 
