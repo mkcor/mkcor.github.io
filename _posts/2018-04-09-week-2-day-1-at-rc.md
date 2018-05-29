@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 2, day 1 at RC"
 date:   2018-04-09 00:17:48 -0500
-tags: coffee, typing, wasm, javascript
+tags: [coffee, typing, wasm, javascript]
 ---
 This morning, I braced myself and made a fresh pot of coffee at RC. The
 algorithm was taped on the coffee machine. That was easy (just follow the

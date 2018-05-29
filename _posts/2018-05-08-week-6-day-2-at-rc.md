@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 6, day 2 at RC"
 date:   2018-05-08 16:00:00 -0500
-tags: reading, writing, proceedings, laughter
+tags: [reading, writing, proceedings, laughter]
 ---
 Last night, I finally started reading *Sapiens*, the international best-seller
 that everyone has already read. I like the companionship of a book.

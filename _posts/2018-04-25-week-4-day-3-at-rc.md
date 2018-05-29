@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 4, day 3 at RC"
 date:   2018-04-25 00:18:00 -0500
-tags: dancing, web app, reactive programming, deployment
+tags: [dancing, web app, reactive programming, deployment]
 ---
 Early this morning, I went to a dance party on a boat; yes, I'm talking about
 [Daybreaker](https://www.daybreaker.com/)! I had to catch up on sleep

@@ -2,7 +2,7 @@
 layout: post
 title:  "First day at RC"
 date:   2018-04-02 00:18:08 -0500
-tags: blogging, ruby, timezone, version managing
+tags: [blogging, ruby, timezone, version managing]
 ---
 "RC" stands for the [Recurse Center](https://www.recurse.com/). So, today was
 my first day at RC. I will be spending the next three months growing as a

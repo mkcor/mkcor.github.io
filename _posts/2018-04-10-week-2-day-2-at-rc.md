@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 2, day 2 at RC"
 date:   2018-04-10 00:17:48 -0500
-tags: body, typing, javascript, collaboration
+tags: [body, typing, javascript, collaboration]
 ---
 My body is craving some dancing and exercising. I had signed up for a
 flexibility class this morning (I want to get my splits back and improve my

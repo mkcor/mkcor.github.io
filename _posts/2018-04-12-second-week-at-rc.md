@@ -2,7 +2,7 @@
 layout: post
 title:  "Second week at RC"
 date:   2018-04-12 00:18:48 -0500
-tags: research, science, body, lisp
+tags: [research, science, body, lisp]
 ---
 I'd like to thank [Ashley](http://bits.ashleyblewer.com/) for letting me know
 about [Mozilla Fellowships](https://foundation.mozilla.org/fellowships/apply/)!

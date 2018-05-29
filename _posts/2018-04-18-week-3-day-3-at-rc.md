@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 3, day 3 at RC"
 date:   2018-04-18 00:20:08 -0500
-tags: automation, deployment, patch, moving
+tags: [automation, deployment, patch, moving]
 ---
 Today, I submitted
 [pull requests](https://github.com/mkcor?tab=overview&from=2018-04-18)! Let me

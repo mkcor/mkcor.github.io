@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 6, day 3 at RC"
 date:   2018-05-09 16:00:00 -0500
-tags: writing, proceedings, editing, git
+tags: [writing, proceedings, editing, git]
 ---
 Today was similar to [yesterday]({% post_url 2018-05-08-week-6-day-2-at-rc %}),
 writing the proceedings paper. I was reminded that, when using BibTeX, you

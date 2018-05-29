@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 3, day 1 at RC"
 date:   2018-04-16 00:18:48 -0500
-tags: self-care, academia, continuous integration, conda
+tags: [self-care, academia, continuous integration, conda]
 ---
 This morning, the weather was awful and, hence, perfect to stay in bed. I spent
 a significant part of the day taking care of myself. On Friday, I went to

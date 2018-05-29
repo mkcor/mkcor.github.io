@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 2, day 3 at RC"
 date:   2018-04-11 00:17:48 -0500
-tags: heels, python, typing, life
+tags: [heels, python, typing, life]
 ---
 I've been walking the City in
 [high heels](https://doi.org/10.1080/10253866.2016.1153830), which is not

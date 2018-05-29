@@ -2,7 +2,7 @@
 layout: post
 title:  "Fourth week at RC"
 date:   2018-04-26 00:21:38 -0500
-tags: life, nutella, demo, reproducible research
+tags: [life, nutella, demo, reproducible research]
 ---
 Four weeks already! I have come to the realization that I do *not* want to stay
 in NYC beyond my batch at RC. It's a great feeling.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 6, day 1 at RC"
 date:   2018-05-07 10:00:00 -0500
-tags: blockchain, python, data provenance, open science
+tags: [blockchain, python, data provenance, open science]
 ---
 Today, I tackled one of the items on my RC checklist:
 [blockchain](https://en.wikipedia.org/wiki/Blockchain). I read this blog

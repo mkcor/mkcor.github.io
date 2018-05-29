@@ -2,7 +2,7 @@
 layout: post
 title:  "Day 1 at BUILD"
 date:   2018-05-03 18:28:00 -0600
-tags: academia, political science, data visualization, plotly
+tags: [academia, political science, data visualization, plotly]
 ---
 Today at [BUILD](http://politicaldatascience.com/BUILD/), we
 

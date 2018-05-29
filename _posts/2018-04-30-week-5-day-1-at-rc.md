@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 5, day 1 at RC"
 date:   2018-04-30 19:00:00 -0500
-tags: bouldering, cobblestones, bokeh, streaming
+tags: [bouldering, cobblestones, bokeh, streaming]
 ---
 Yesterday, I went to the *original*
 [Brooklyn Boulders](https://brooklynboulders.com/gowanus/) for a bouldering

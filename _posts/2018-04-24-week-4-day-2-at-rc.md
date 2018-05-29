@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 4, day 2 at RC"
 date:   2018-04-24 00:19:48 -0500
-tags: neighbourhood, spanish, web app, reactive programming
+tags: [neighbourhood, spanish, web app, reactive programming]
 ---
 I stayed in Brooklyn for most of the day today. It feels good to experience my
 new neighbourhood. I met up with Ana at the

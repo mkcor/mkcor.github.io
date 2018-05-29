@@ -2,7 +2,7 @@
 layout: post
 title:  "Third week at RC"
 date:   2018-04-19 00:22:38 -0500
-tags: fonts, money, parents, moving
+tags: [fonts, money, parents, moving]
 ---
 I have done a little paid work remotely, because
 

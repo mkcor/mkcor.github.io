@@ -2,7 +2,7 @@
 layout: post
 title:  "First week at RC"
 date:   2018-04-05 00:20:28 -0500
-tags: laughter, human languages, network
+tags: [laughter, human languages, network]
 ---
 Last night I had dinner (pho) with Janice and Lydia. It felt really good to
 share perspectives on unconventional career and life choices. Afterwards, I

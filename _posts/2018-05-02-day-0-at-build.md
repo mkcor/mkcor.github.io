@@ -2,7 +2,7 @@
 layout: post
 title:  "Day 0 at BUILD"
 date:   2018-05-02 20:00:00 -0500
-tags: travel, political science, collaboration
+tags: [travel, political science, collaboration]
 ---
 Today, I was not at RC. I flew into St. Louis, MO (making Missouri, by the way,
 the tenth US state where I'm spending, say, more than 24 hours). My body and

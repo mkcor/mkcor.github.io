@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 3, day 2 at RC"
 date:   2018-04-17 00:18:48 -0500
-tags: reading, continuous integration, friendship, fellowship
+tags: [reading, continuous integration, friendship, fellowship]
 ---
 Today, I struggled waking and booting my laptop, but eventually I could use it
 normally. I continued with the following works in progress:

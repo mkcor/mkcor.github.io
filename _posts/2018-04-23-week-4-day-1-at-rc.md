@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 4, day 1 at RC"
 date:   2018-04-23 00:19:48 -0500
-tags: customizing, reading, networking, streaming
+tags: [customizing, reading, networking, streaming]
 ---
 This morning, I did a lot of planning and emailing. After lunch, I walked into
 Converse's flagship store. Downstairs, I discovered the workshop, where they
