@@ -25,5 +25,5 @@ This is the kind of people you get to meet at RC. We discussed the following:
 * labour, work, and action ([Arendt](https://www.iep.utm.edu/arendt/#SH4a))
 * ethics and politics ([Aristotle](https://www.iep.utm.edu/aris-pol/))
 * politics vs the political, which sounds better in Romance languages, e.g.,
-lo político y la política ([Schmitt](https://plato.stanford.edu/entries/schmitt/#ConPolCriLib), [Mouffe](https://www.webdianoia.com/contemporanea/mouffe/mouffe_lopolitico.htm))
+la política y lo político ([Schmitt](https://plato.stanford.edu/entries/schmitt/#ConPolCriLib), [Mouffe](https://www.webdianoia.com/contemporanea/mouffe/mouffe_lopolitico.htm))
 * And much more...
