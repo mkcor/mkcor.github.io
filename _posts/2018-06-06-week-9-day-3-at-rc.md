@@ -20,7 +20,8 @@ flights as well as experiencing this kind of
 [frustration](http://ivory.idyll.org/blog/2017-reimbursements.html).
 
 [^1]: Non ho ancora finito di ascoltare il
-      [discorso](https://www.youtube.com/watch?v=rY8SzSOqxz8) del premier.
+      [discorso](https://www.youtube.com/watch?v=rY8SzSOqxz8) del premier al
+      Senato (5 giugno 2018).
 
 On the [SciPy 2018](https://scipy2018.scipy.org) front, at least, things are
 boding well for my reimbursement. My European networks reminded me of
